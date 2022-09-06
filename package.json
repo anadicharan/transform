@@ -1,0 +1,14 @@
+{
+  "name": "transform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-to-json-transformer": "^1.1.0"
+  }
+}
